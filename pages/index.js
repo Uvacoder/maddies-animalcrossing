@@ -875,14 +875,14 @@ export default function Home(props) {
 				animate="enter"
 				variants={third}
 			>
-				Developed by{" "}
+				Developed thinking of {" "}
 				<a
-					href="https://dont-ping.me"
+					href="https://maddies-world.vercel.app"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="transition-colors duration-300 ease-in-out underline cursor-pointer hover:text-gray-200"
 				>
-					Matt
+					Maddie C
 				</a>
 				. Not affliated with{" "}
 				<a
